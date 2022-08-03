@@ -1,0 +1,30 @@
+
+Nombre del equipo: AIDengue
+
+Integrantes:
+	Andrade Barbosa David
+	Alzate Cardona Christian Felipe
+	Cañon Daniel Eduardo
+	Mesa Posada Clara Isabel
+	Posada Mejia Carlos Esteban
+	Zuluaga Quirós Johanna	
+
+Objetivo: 
+	
+
+Paso a paso realizado:
+
+Repositorio:
+	Se crea repositorio en GitHub para trabajo colaborativo mediante Git bash
+	Contenido:
+		data: data descargada desde Kaggle
+		EDA: Notebook con la data molida de Colombia
+		Feature: Otras variables encontradas para el modelo
+		Models:
+		Scripts: 
+
+Dataframes:
+	Se ajusta en el Eda el dataframe para cambiar columnas por filas
+	Se hace tratamiento en las semanas epidemiologicas
+	
+
